@@ -1,0 +1,38 @@
+{
+  "body": {
+    "rows": [
+      {
+        "cells": [
+          1
+        ],
+        "columns": [
+          {
+            "id": 1,
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Hello World",
+                  "containerPadding": "10px",
+                  "color": "#000000"
+                }
+              }
+            ],
+            "values": {
+              "width": 12,
+              "padding": "0px"
+            }
+          }
+        ],
+        "values": {
+          "padding": "20px"
+        }
+      }
+    ],
+    "values": {
+      "backgroundColor": "#ffffff",
+      "contentWidth": "600px"
+    }
+  },
+  "schemaVersion": 15
+}
